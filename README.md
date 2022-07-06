@@ -10,7 +10,7 @@
 - [Styled Components](https://styled-components.com/) for creating custom components using CSS.
 - [Open Trivia DB](https://opentdb.com/) for using their API & populating data for quiz.
 
-## Learn More
+### Learn More
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
